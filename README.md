@@ -1,1 +1,1 @@
-# rails_guide
+# Ruby on Rails 5 速習ガイドやってみたログ
